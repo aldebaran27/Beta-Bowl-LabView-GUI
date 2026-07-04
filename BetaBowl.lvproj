@@ -114,7 +114,7 @@
             <Property Name="LicenseFile" Type="Ref"></Property>
             <Property Name="OSCheck" Type="Int">0</Property>
             <Property Name="ProductName" Type="Str">Beta Bowl</Property>
-            <Property Name="ProductVersion" Type="Str">1.0.7</Property>
+            <Property Name="ProductVersion" Type="Str">1.0.9</Property>
             <Property Name="ReadmeFile" Type="Ref"></Property>
             <Property Name="ShortcutInfo.Count" Type="Int">2</Property>
             <Property Name="ShortcutInfo[0].DirTag" Type="Str">{B9E310F1-839C-48B7-8CAE-33000780C26E}</Property>
@@ -232,7 +232,7 @@
             <Property Name="VersionInfoCompanyName" Type="Str">Beta Systems</Property>
             <Property Name="VersionInfoFileDescription" Type="Str"></Property>
             <Property Name="VersionInfoFileType" Type="Int">1</Property>
-            <Property Name="VersionInfoFileVersionBuild" Type="Int">3</Property>
+            <Property Name="VersionInfoFileVersionBuild" Type="Int">6</Property>
             <Property Name="VersionInfoFileVersionMajor" Type="Int">1</Property>
             <Property Name="VersionInfoFileVersionMinor" Type="Int">0</Property>
             <Property Name="VersionInfoFileVersionPatch" Type="Int">0</Property>
@@ -326,7 +326,7 @@
             <Property Name="VersionInfoCompanyName" Type="Str">Beta Systems</Property>
             <Property Name="VersionInfoFileDescription" Type="Str"></Property>
             <Property Name="VersionInfoFileType" Type="Int">1</Property>
-            <Property Name="VersionInfoFileVersionBuild" Type="Int">4</Property>
+            <Property Name="VersionInfoFileVersionBuild" Type="Int">5</Property>
             <Property Name="VersionInfoFileVersionMajor" Type="Int">1</Property>
             <Property Name="VersionInfoFileVersionMinor" Type="Int">0</Property>
             <Property Name="VersionInfoFileVersionPatch" Type="Int">0</Property>
